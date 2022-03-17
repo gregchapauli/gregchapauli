@@ -1,5 +1,6 @@
 # Grégory Caloin
-I'm Greg from France, Front-end developper and new tech addict. I really enjoy learning languages and frameworks like JS and React. 
+
+I'm Greg from France, Front-end developper and new tech addict. I really enjoy learning languages and frameworks like JS and React.
 
 Actually:
 
@@ -11,13 +12,12 @@ Actually:
 
 ### Connect with me:
 
-[![img_contact](./img/globe-light.svg)](link#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](link#gh-dark-mode-only)
+[![img_contact](./img/globe_light.svg)](link#gh-light-mode-only)
+[![img_contact](./img/globe_dark.svg)](link#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](link#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](link/#gh-dark-mode-only)
+[![img_contact](./img/linkedin_light.svg)](link#gh-light-mode-only)
+[![img_contact](./img/linkedin_dark.svg)](link/#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 
 ### Languages and Tools:
 
@@ -31,8 +31,6 @@ Actually:
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-
-
 ### My daily routine :
 
 ```mermaid
@@ -43,7 +41,9 @@ Actually:
 ```
 
 ### 🔥 Recent GitHub Activity
+
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#2](https://github.com/MikeCodeur/react-netflix-clone/pull/2) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
 2. 💪 Opened PR [#2](https://github.com/MikeCodeur/react-netflix-clone/pull/2) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
 3. 🎉 Merged PR [#1](https://github.com/MikeCodeur/react-netflix-clone/pull/1) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
