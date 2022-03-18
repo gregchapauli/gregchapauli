@@ -12,11 +12,9 @@ Actually:
 
 ### Connect with me:
 
-[![img_contact](./img/globe_light.svg)](link#gh-light-mode-only)
-[![img_contact](./img/globe_dark.svg)](link#gh-dark-mode-only)
+[![img_contact](./img/internet.svg)]
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin_light.svg)](link#gh-light-mode-only)
-[![img_contact](./img/linkedin_dark.svg)](link/#gh-dark-mode-only)
+[![img_contact](./img/linkedin.svg)]
 &nbsp;&nbsp;
 
 ### Languages and Tools:
