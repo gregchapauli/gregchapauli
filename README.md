@@ -12,10 +12,7 @@ Actually:
 
 ### Connect with me:
 
-[![img_contact](./img/internet.svg)]
-&nbsp;&nbsp;
-[![img_contact](./img/linkedin.svg)]
-&nbsp;&nbsp;
+[![img_contact](./img/internet.svg)](link)&nbsp;&nbsp;[![img_contact](./img/linkedin.svg)](https://www.linkedin.com/in/gr%C3%A9gory-c-a49b5b1aa/)
 
 ### Languages and Tools:
 
