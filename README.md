@@ -1,4 +1,4 @@
-# Grégory Caloin
+# Grégory C.
 
 I'm Greg from France, Front-end developper and new tech addict. I really enjoy learning languages and frameworks like JS and React.
 
