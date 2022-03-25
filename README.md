@@ -1,6 +1,8 @@
 # Grégory C.
 
-I'm Greg from France, Front-end developper and new tech addict. I really enjoy learning languages and frameworks like JS and React.
+I'm Greg from France, Front-end developer and new tech addict.
+<br/>
+I really enjoy learning languages and frameworks like JS, ReactJS, NodeJs and Typescript.
 
 Actually:
 
