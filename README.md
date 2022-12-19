@@ -6,11 +6,11 @@ I really enjoy learning languages and frameworks like JS, ReactJS, NodeJs and Ty
 
 Actually:
 
-- 🔭 I’m currently working on a new personal Project ...
-- 🌱 I’m currently learning amazing things ...
-- 👯 I help people to be programmers on Code platforms ...
-- ⚡ Fun fact : I love Diving, Skateboarder and Surfer
-- 📫 How to reach me: LinkedIn or email
+- 🔭 I’m currently working on Java and javascript project
+- 🌱 I’m currently learning new languages and framework like Typescript and SpringBoot
+- 👯 I'm participating to a bootcamp with Mike Codeur to become a specialist in ReactJS
+- ⚡ Fun fact : I love Diving, basketball and Photography
+- 📫 How to reach me: LinkedIn(www.linkedin.com/in/grégory-c-a49b5b1aa)
 
 ### Connect with me:
 
