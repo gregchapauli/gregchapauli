@@ -10,7 +10,7 @@ Actually:
 - 🌱 I’m currently learning new languages and framework like Typescript and SpringBoot
 - 👯 I'm participating to a bootcamp with Mike Codeur to become a specialist in ReactJS
 - ⚡ Fun fact : I love Diving, basketball and Photography
-- 📫 How to reach me: LinkedIn(www.linkedin.com/in/grégory-c-a49b5b1aa)
+- 📫 How to reach me: www.linkedin.com/in/grégory-c-a49b5b1aa
 
 ### Connect with me:
 
